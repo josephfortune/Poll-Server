@@ -1,0 +1,1 @@
+void plog(char *fmt,...);
